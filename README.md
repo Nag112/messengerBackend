@@ -21,7 +21,7 @@ Before you begin, ensure you have the following installed:
 1. Clone the repository:
    ```bash
    git clone https://github.com/Nag112/messengerBackend.git
-  ```
+   ```
 2. Install dependencies:
    ```bash
    npm install
