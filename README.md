@@ -36,7 +36,7 @@ Before you begin, ensure you have the following installed:
     ```
 
 ## Running the Server
-Start the server with the following command:
+- Start the server with the following command:
     ```bash
     npm server.js
     ```
@@ -51,4 +51,4 @@ Start the server with the following command:
 Feel free to contribute to this project. Please open an issue or submit a pull request with your proposed changes or improvements.
 
 License
-This project is licensed under the MIT License - see the LICENSE file for details.
+This project is licensed under the MIT License - see the [LICENSE](https://github.com/Nag112/messengerBackend/blob/main/LICENSE) file for details.
